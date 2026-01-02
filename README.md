@@ -4,7 +4,6 @@ Bu uygulama, modern **GTK4** ve **Libadwaita** kütüphanelerini kullanan, Debia
 
 # Flatpak Yönetim Merkezi: Modern ve Güçlü 
 
-**Neden?**, Linux masaüstünüzde yüklü olan Flatpak uygulamalarını uçbirime (terminale) ihtiyaç duymadan, görsel ve kullanıcı dostu bir arayüzle yönetmenizi sağlayan yeni nesil bir araçtır. Özellikle Pardus ve Debian 13 "Trixie" gibi modern dağıtımların tasarım diline tam uyum sağlayacak şekilde geliştirilmiştir.
 
 ## Öne Çıkan Temel Özellikler
 
@@ -46,7 +45,7 @@ Sisteminizi optimize etmek için karmaşık komutlar ezberlemenize gerek yok. Uy
 * **Hedef Platform:** Pardus, Debian 13, GNOME 45+ masaüstü ortamları.
 * **Güvenlik:** Arka planda işlemleri asenkron (threading) yürüterek donmaları önler ve sistem kaynaklarını verimli kullanır.
 
-## Neden Flatpak Pro?
+## Neden bu uygulama?
 
 Eğer terminal kullanmaktan çekiniyor veya Flatpak uygulamalarınızın ayarlarını manuel olarak yedeklemekle vakit kaybetmek istemiyorsanız, **Flatpak Yönetim Merkezi** sizin için en ideal çözümdür. Modern, hızlı ve güvenilir bir yönetim deneyimi sunar.
 
