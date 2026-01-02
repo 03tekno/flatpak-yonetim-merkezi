@@ -53,5 +53,3 @@ Eğer terminal kullanmaktan çekiniyor veya Flatpak uygulamalarınızın ayarlar
 ---
 
 **İpucu:** Uygulamayı çalıştırmak için sisteminizde `python3-gi`, `libadwaita-1-dev` ve `flatpak` paketlerinin kurulu olduğundan emin olun.
-
-**Bu tanıtım metnini bir blog yazısı, bir GitHub README dosyası veya bir forum paylaşımı olarak kullanabilirsiniz. Uygulamaya yeni özellikler eklemek isterseniz (örneğin karanlık mod anahtarı veya depo ekleme gibi) yardımcı olmaktan mutluluk duyarım!**
